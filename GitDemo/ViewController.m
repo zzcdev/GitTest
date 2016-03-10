@@ -9,7 +9,7 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+@property (nonatomic)int sumabc;
 @end
 
 @implementation ViewController
