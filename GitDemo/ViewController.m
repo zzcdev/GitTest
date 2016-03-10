@@ -10,8 +10,6 @@
 
 @interface ViewController ()
 @property (nonatomic)int sumabc;
-@property (nonatomic)int senced;
-@property (nonatomic)int thired;
 @end
 
 @implementation ViewController
